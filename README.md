@@ -1,7 +1,7 @@
-Tiago, o 1o seria assim:
+O script "programa 01" funcionará da seguinte maneira:
 
-Entrarei no arquivo 1, com combinações de N dezenas (17 dz, 18 dz, 19 dz, etc) de minha escolha;
+No arquivo "históricos de jogos.csv", haverá combinações de N dezenas (17 dz, 18 dz, 19 dz, etc) de escolha do usuário;
 
-Entrarei no arquivo 2, com todos os sorteios da loteria acorridos ate hoje;
+No arquivo "palpites de jogos.csv", haverá todo o histórico dos sorteios da loteria acorridos até hoje;
 
-O programa vai me devolver as combinações de N dezenas que nunca pontuaram 15 pts do arquivo 2.
+O programa deve devolver as combinações de N dezenas que nunca pontuaram.
